@@ -12,7 +12,7 @@ This is used to generate and train the best Naive Bayes model.
 The test set is used on the best trained Naive Bayes model and the performance metrics are evaluated.
 
 'mushroom_random_forest_hyperparameters_harrytamhoyin':
-Training set is applied on fitcensemble method to find the hyperparameters.
+The training set is applied on fitcensemble method to find the hyperparameters.
 The hyperparameter tuning takes more than 30 minutes. 
 
 'mushroom_random_forest_training_harrytamhoyin': 
@@ -21,10 +21,8 @@ This is used to generate and train the best Random Forest model.
 'mushroom_random_forest_testing_harrytamhoyin': 
 The test set is used on the best trained random forest model and the performance metrics are evaluated.
 
-
 == Important Note ==
 Please run the training script first before running the testing script.  
-
 
 == References ==
 
